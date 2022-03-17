@@ -10,3 +10,11 @@
 - Pushing branches to the remote repository.
 - Making and approving pull requests.
 - Pulling changes from the remote repository.
+
+# Participants
+- Kayla Martin
+- Ashley Ruby
+- John Aff
+- Vikram Shah
+- Dale Johnston
+- Fernando Mendez
