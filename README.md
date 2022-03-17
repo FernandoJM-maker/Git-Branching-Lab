@@ -1,6 +1,6 @@
 # Welcome to the Git-Branching-Lab!
 
-**Objective:** To understand how to use GitKraken for simple Git branching and project managemnt.
+**Objective:** To understand how to use GitKraken for simple Git branching and project management.
 
 **Topics:**
 - Cloning a remote repository.
